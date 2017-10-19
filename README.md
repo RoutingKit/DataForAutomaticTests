@@ -1,0 +1,3 @@
+This repository contains test data used by some unit tests of RoutingKit in Travis. You do not need to clone it unless you want to locally reproduce the exact tests that run on Travis. This data is not part of the main RoutingKit repository because it is several MB large and it is not needed to build or run RoutingKit.
+
+All data in this repository is derived from OpenStreetMap and downloaded from GeoFabrik. It is available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
